@@ -6,7 +6,11 @@ body {
           background-color:#A5FFE1;
 }
 
-
+img#a {
+position: fixed;
+top: 100px;
+left: 1px;
+}
 
 
 
