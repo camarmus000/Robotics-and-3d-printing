@@ -5,6 +5,11 @@ h1, h3 {
 body {
           background-color:#A5FFE1;
 }
+img#a {
+position: absolute;
+top: 100px;
+left: 400px;
+}
 
 
 
