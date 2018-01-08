@@ -6,7 +6,7 @@ body {
           background-color:#A5FFE1;
 }
 img#a {
-position: absolute;
+position: relative;
 top: 100px;
 left: 400px;
 }
