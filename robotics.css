@@ -6,7 +6,8 @@ body {
           background-color:#A5FFE1;
 }
 
-<div style="text-align: center;"><IMG SRC="realrobot.png" ALT="image"></div>
+<IMG STYLE="position:absolute; TOP:35px; LEFT:170px; WIDTH:50px; HEIGHT:50px" 
+SRC="realrobot.png">
 
 
 
