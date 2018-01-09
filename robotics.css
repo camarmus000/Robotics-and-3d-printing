@@ -6,9 +6,9 @@ body {
           background-color:#A5FFE1;
 }
 
-<IMG STYLE="position:absolute; TOP:35px; LEFT:500px; WIDTH:50px; HEIGHT:50px" 
-SRC="realrobot.png">
-
+<marquee>
+         <img src="realrobot.png">
+</marquee>
 
 
 
