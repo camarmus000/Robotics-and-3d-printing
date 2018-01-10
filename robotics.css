@@ -22,23 +22,11 @@ p {
     background-color: #80ced6;
 }
 
-table {
-    border-collapse: collapse;
-    width: 100%;
+
+img {
+    position: absolute;
+    top: 150px;
+    left: 250px;
 }
-
-th, td {
-    text-align: left;
-    padding: 8px;
-}
-
-tr:nth-child(even){background-color: #f2f2f2}
-
-th {
-    background-color: #4CAF50;
-    color: white;
-}
-
-
 
 
