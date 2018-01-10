@@ -3,6 +3,7 @@ h1, h3 {
          font-size: 28pt;
          background-color: #ffff00;
          text-align: center;
+         text-shadow: 3px 2px green;
       }
 
 p {
