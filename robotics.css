@@ -1,5 +1,13 @@
-h1, h3 {
+h1 {
          color: blue;
+         font-size: 28pt;
+         background-color: #ffff00;
+         text-align: center;
+         text-shadow: 3px 2px green;
+      }
+
+h3 {
+         color: purple;
          font-size: 28pt;
          background-color: #ffff00;
          text-align: center;
