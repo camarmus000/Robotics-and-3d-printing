@@ -1,9 +1,10 @@
 h1, h3 {
          color: blue;
          font-size: 28pt;
+         background-color: #ffff00;
       }
 body {
-          background-color:#A5FFE1;
+          background-color:#ffffff;
 }
 
 p {
